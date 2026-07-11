@@ -2,6 +2,8 @@
 
 Save files that place you in Helgen Keep, right before you leave. Skip the opening cart ride and start your journey.
 
+If this helped you, [star the repo on GitHub](https://github.com/lukegabriel520/Skyrim-Awesome-Savefiles).
+
 ## What you get
 
 - One save per playable race (10 races)
@@ -22,15 +24,41 @@ Save files that place you in Helgen Keep, right before you leave. Skip the openi
 - Skyrim Legendary Edition uses a different save format. Legendary Edition saves are not included in this repo yet.
 - Not for Skyrim VR
 
+## Download from GitHub
+
+Pick one way to get the saves.
+
+### Option A: One race
+
+1. Go to [`races/`](races/) on GitHub
+2. Open the folder for your race
+3. Click the `.ess` file
+4. Click **Download** or **Download raw file**
+
+### Option B: All races (RAR)
+
+1. Go to the repo root on GitHub
+2. Download [`skyrim_savefiles_races.rar`](skyrim_savefiles_races.rar)
+3. Extract the archive on your PC
+4. Pick the `.ess` file for the race you want
+
+You need a tool like WinRAR or 7-Zip to extract the file.
+
+### Option C: Clone the repo
+
+If you use Git, clone the full repo and copy saves from your local folder.
+
+```bash
+git clone https://github.com/lukegabriel520/Skyrim-Awesome-Savefiles.git
+```
+
+The saves are inside `Skyrim-Awesome-Savefiles/races/<race>/`.
+
 ## Embed the save
 
-### Step 1: Get the file
+Once you have a `.ess` file, put it in your Skyrim Saves folder.
 
-1. Open the folder for your race in [`races/`](races/)
-2. Click the `.ess` file
-3. Click **Download** or **Download raw file**
-
-### Step 2: Open your Saves folder
+### Step 1: Open your Saves folder
 
 Press `Win + R`, paste one of these paths, then press Enter.
 
@@ -41,13 +69,13 @@ Press `Win + R`, paste one of these paths, then press Enter.
 
 If the `Saves` folder does not exist, launch Skyrim once and quit. The game will create it.
 
-### Step 3: Drop the file in
+### Step 2: Drop the file in
 
-Drag the downloaded `.ess` file into the Saves folder. You can also copy and paste it there.
+Drag the `.ess` file into the Saves folder. You can also copy and paste it there.
 
 You can rename the file if you want a different name on the load screen.
 
-### Load the save
+### Step 3: Load the save
 
 1. Start Skyrim
 2. Main menu → **Load** → pick the save
