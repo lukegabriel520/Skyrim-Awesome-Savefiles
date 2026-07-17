@@ -1,7 +1,4 @@
 # Skyrim Awesome Savefiles
-
-Save files that place you in Helgen Keep, right before you leave. Skip the opening cart ride and start your journey.
-
 If this helped you, [star the repo on GitHub](https://github.com/lukegabriel520/Skyrim-Awesome-Savefiles).
 
 ## What you get
